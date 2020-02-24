@@ -1,0 +1,61 @@
+===========Coverage Tests==============
+Coverage Test
+R0: x0000	R4: x000C
+R1: x0007   R5: xFFFB	
+R2: xFFF1   R6: x0035
+R3: x0008	R7: x002A
+
+Coverage Test 2
+R0: xADED	R4: xFFFA
+R1: x0007	R5: x002A
+R2: x0005	R6: x01E0
+R3: x000C 	R7: x0000
+
+============Instructions==============
+ADDAND
+R0: x0000	R4: x0001
+R1: x0005   R5: x0000
+R2: xFFFC   R6: x0000
+R3: x0004   R7: x0000
+
+NOT
+R0: x0000	R4: x0001
+R1: x0001   R5: x0000
+R2: xFFFE   R6: x0000
+R3: x0004   R7: x0000
+
+LEA
+R0: x0000	R4: x0000
+R1: xFFFF   R5: x0000
+R2: x0006   R6: x0000
+R3: x0000   R7: x0000
+
+LDST
+R0: x0000	R4: x0000
+R1: x0005   R5: x0000
+R2: x0005   R6: x0000
+R3: x0000   R7: x0000
+
+LDRSTR
+R0: x0000	R4: x0000
+R1: x0006   R5: x0000
+R2: x0005   R6: x0000
+R3: x0005   R7: x0000
+
+LEALDI
+R0: x0000	R4: x0000
+R1: x0003   R5: x0000
+R2: x0003   R6: x0000
+R3: x0000   R7: x0000
+
+STI
+R0: x0000	R4: x0000
+R1: x0005   R5: x0000
+R2: x0005   R6: x0000
+R3: x0000   R7: x0000
+
+JMPJSRJSRR
+R0: x0000	R4: x000B
+R1: x0003   R5: x0008
+R2: x0008   R6: x0000
+R3: x0005   R7: x0003

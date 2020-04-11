@@ -1,0 +1,30 @@
+
+Struct info at index 0:
+Expression: 0xC-7
+Result: 5
+ErrorCode: 2110
+---------------------
+
+Struct info at index 1:
+Expression: 67+0xCCB
+Result: 3342
+ErrorCode: 2110
+---------------------
+
+Struct info at index 2:
+Expression: 0xADE+581-0xFE-0xBCC+1664
+Result: 1753
+ErrorCode: 2110
+---------------------
+
+Struct info at index 3:
+Expression: ERROR
+Result: 0
+ErrorCode: 301
+---------------------
+
+Struct info at index 4:
+Expression: 
+Result: 0
+ErrorCode: 0
+---------------------
